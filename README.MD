@@ -1,3 +1,3 @@
 # realbeta-clients
-get.realbeta.ru/beta.zip
-get.realbeta.ru/modern.mrpack
+https://get.realbeta.ru/beta.zip
+https://get.realbeta.ru/modern.mrpack
